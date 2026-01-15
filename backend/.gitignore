@@ -1,0 +1,34 @@
+# -----------------------------
+# Backend (.NET)
+# -----------------------------
+
+# Build results
+/bin/
+/obj/
+/Debug/
+/Release/
+/publish/
+/*.dll
+/**/*.dll
+
+
+# User-specific files
+/*.user
+/*.userosscache
+/*.suo
+/*.userprefs
+/*.vs/
+
+# NuGet packages
+/packages/
+/*.nupkg
+
+# Dotnet temporary files
+/*.DotSettings
+/.DS_Store
+
+# Rider IDE
+/.idea/
+
+# Visual Studio Code
+/.vscode/
